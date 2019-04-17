@@ -529,8 +529,3 @@ C/C++集成开发环境列表
 *   [Clang Static Analyzer](http://hao.jobbole.com/clang-static-analyzer/)：查找C，C++和Objective-C程序bug的源代码分析工具。[官网](http://clang-analyzer.llvm.org/index.html)
 *   静态代码分析工具清单（[开源篇](http://hao.jobbole.com/static_code_analysis_tool_list_opensource/)）：来自维基百科的静态代码分析工具列表。[官网](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B)
    
-
-<h3 id="weibo-weixin">微信公众号</h3>
-* CPP开发者：专注分享 C/C++ 开发相关的技术文章和工具资源。
-<br><img src="http://ww1.sinaimg.cn/small/63918611gw1epb2c4w55aj2046046t8t.jpg" width=150 height=150>
-
