@@ -59,14 +59,18 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 
 * * *
 
-### 标准库    ####C++标准库，包括了STL容器，算法和函数等。
+### 标准库
+
+C++标准库，包括了STL容器，算法和函数等。
 
 *   C++ Standard Library：是一系列类和函数的集合，使用核心语言编写，也是C++ISO自身标准的一部分。[官网](http://en.wikipedia.org/wiki/C%2B%2B_Standard_Library)
 *   Standard Template Library：标准模板库。[官网](http://en.wikipedia.org/wiki/Standard_Template_Library)
 *   C POSIX library：POSIX系统的C标准库规范。[官网](http://en.wikipedia.org/wiki/C_POSIX_library)
 *   ISO C++ Standards Committee：C++标准委员会。[官网](https://github.com/cplusplus)
 
-### 框架    C++通用框架和库
+### 框架
+
+C++通用框架和库
 
 *   Apache C++ Standard Library：是一系列算法，容器，迭代器和其他基本组件的集合。[官网](http://stdcxx.apache.org/)
 *   ASL：Adobe源代码库提供了同行的评审和可移植的C++源代码库。[官网](http://stlab.adobe.com/)
@@ -107,7 +111,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   libevent：事件通知库。[官网](http://libevent.org/)
 *   libuv：跨平台异步I/O。[官网](https://github.com/joyent/libuv)
 
-### 音频    音频，声音，音乐，数字化音乐库
+### 音频
+
+音频，声音，音乐，数字化音乐库
 
 *   FMOD：易于使用的跨平台的音频引擎和音频内容的游戏创作工具。[官网](http://www.fmod.org/)
 *   Maximilian：C++音频和音乐数字信号处理库。[官网](https://github.com/micknoise/Maximilian)
@@ -117,14 +123,18 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   Tonic：C++易用和高效的音频合成。[官网](https://github.com/TonicAudio/Tonic)
 *   Vorbis：Ogg Vorbis是一种完全开放的，非专有的，免版税的通用压缩音频格式。[官网](http://xiph.org/vorbis/)
 
-### 生态学    生物信息，基因组学和生物技术
+### 生态学
+
+生物信息，基因组学和生物技术
 
 *   libsequence：用于表示和分析群体遗传学数据的C++库。[官网](http://molpopgen.github.io/libsequence/)
 *   SeqAn：专注于生物数据序列分析的算法和数据结构。[官网](http://www.seqan.de/)
 *   Vcflib：用于解析和处理VCF文件的C++库。[官网](https://github.com/ekg/vcflib)
 *   Wham：直接把联想测试应用到BAM文件的基因结构变异。[官网](https://github.com/jewmanchue/wham)
 
-### 压缩    压缩和归档库
+### 压缩
+
+压缩和归档库
 
 *   bzip2：一个完全免费，免费专利和高质量的数据压缩。[官网](http://www.bzip.org/)
 *   doboz：能够快速解压缩的压缩库。[官网](https://bitbucket.org/attila_afra/doboz/overview)
@@ -140,7 +150,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   ZLib：非常紧凑的数据流压缩库。[官网](http://zlib.net/)
 *   ZZIPlib：提供ZIP归档的读权限。[官网](http://zziplib.sourceforge.net/)
 
-### 并发性    并发执行和多线程
+### 并发性
+
+并发执行和多线程
 
 *   Boost.Compute：用于OpenCL的C++GPU计算库。[官网](https://github.com/kylelutz/compute)
 *   Bolt：针对GPU进行优化的C++模板库。[官网](https://github.com/HSA-Libraries/Bolt)
@@ -176,7 +188,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   Tiny AES128 in C：用C实现的一个小巧，可移植的实现了AES128ESB的加密算法。[官网](https://github.com/kokke/tiny-AES128-C)
 *   GmSSL：支持国密SM2/SM3/SM4算法的OpenSSL分支。[官网](https://github.com/guanzhi/GmSSL)
 
-### 数据库    数据库，SQL服务器，ODBC驱动程序和工具
+### 数据库
+
+数据库，SQL服务器，ODBC驱动程序和工具
 
 *   hiberlite：用于Sqlite3的C++对象关系映射。[官网](https://github.com/paulftw/hiberlite)
 *   Hiredis：用于Redis数据库的很简单的C客户端库。[官网](https://github.com/redis/hiredis)
@@ -186,7 +200,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   RocksDB：来自Facebook的嵌入键值的快速存储。[官网](https://github.com/facebook/rocksdb)
 *   SQLite：一个完全嵌入式的，功能齐全的关系数据库，只有几百KB，可以正确包含到你的项目中。[官网](http://www.sqlite.org/)
 
-### 调试    调试库， 内存和资源泄露检测，单元测试
+### 调试
+
+调试库， 内存和资源泄露检测，单元测试
 
 *   Boost.Test：Boost测试库。[官网](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html)
 *   Catch：一个很时尚的，C++原生的框架，只包含头文件，用于单元测试，测试驱动开发和行为驱动开发。[官网](https://github.com/philsquared/Catch)
@@ -334,7 +350,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   WebSocket++：基于C++/Boost Aiso的websocket 客户端/服务器库。[官网](https://github.com/zaphoyd/websocketpp)
 *   ZeroMQ：高速，模块化的异步通信库。[官网](http://zeromq.org/)
 
-### 物理学    动力学仿真引擎
+### 物理学
+
+动力学仿真引擎
 
 *   Box2D：2D的游戏物理引擎。[官网](https://code.google.com/p/box2d/)
 *   Bullet：3D的游戏物理引擎。[官网](https://github.com/bulletphysics/bullet3)
@@ -404,6 +422,8 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 
 ### XML
 
+XML就是个垃圾，XML的解析很烦人，对于计算机它也是个灾难。这种糟糕的东西完全没有存在的理由了。-Linus Torvalds
+
 *   Expat：用C语言编写的XML解析库。[官网](http://www.libexpat.org/)
 *   Libxml2：Gnome的XML C解析器和工具包。[官网](http://xmlsoft.org/)
 *   libxml++：C++的XML解析器。[官网](http://libxmlplusplus.sourceforge.net/)
@@ -414,7 +434,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   TinyXML++：TinyXML的一个全新的接口，使用了C++的许多许多优势，模板，异常和更好的异常处理。[官网](https://code.google.com/p/ticpp/)
 *   Xerces-C++：用可移植的C++的子集编写的XML验证解析器。[官网](http://xerces.apache.org/xerces-c/)
 
-### 未分类内容    一些有用的库或者工具，但未分类
+### 多项混杂
+
+一些有用的库或者工具，但是不适合上面的分类，或者还没有分类
 
 *   C++ Format：C++的小型，安全和快速格式化库。[官网](https://github.com/cppformat/cppformat)
 *   casacore：从aips++ 派生的一系列C++核心库。[官网](https://code.google.com/p/casacore/)
@@ -441,9 +463,13 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   PHP-CPP：使用C++来构建PHP扩展的库。[官网](https://github.com/CopernicaMarketingSoftware/PHP-CPP)
 *   Better String：C的另一个字符串库，功能更丰富，但是没有缓冲溢出问题，还包含了一个C++包装器。[官网](http://bstring.sourceforge.net/)
 
-### 软件    用于创建开发环境的软件
+### 软件
 
-### 编译器    C/C++编译器列表
+用于创建开发环境的软件
+
+### 编译器
+
+C/C++编译器列表
 
 *   Clang：由苹果公司开发的。[官网](http://clang.llvm.org/)
 *   GCC：GNU编译器集合。[官网](https://gcc.gnu.org/)
@@ -453,7 +479,9 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   Open WatCom：Watcom、C、C++和Fortran交叉编译器和工具。[官网](http://www.openwatcom.org/index.php/Main_Page)
 *   TCC：轻量级的C语言编译器。[官网](http://bellard.org/tcc/)
 
-### 在线编译器    在线C/C++编译器列表
+### 在线编译器
+
+在线C/C++编译器列表
 
 *   codepad：在线编译器/解释器，一个简单的协作工具。[官网](http://codepad.org/)
 *   CodeTwist：一个简单的在线编译器/解释器，你可以粘贴的C,C++或者Java代码，在线执行并查看结果。[官网](http://codetwist.com/)
@@ -463,13 +491,17 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   Ideone：一个在线编译器和调试工具，允许你在线编译源代码并执行，支持60多种编程语言。[官网](http://ideone.com/)
 *   C++ Shell:一个非常简单方便,不需要注册的C++在线编译器,可以显示编译信息,允许使用不同的C++标准,不同的优化选项,并支持stdio.[官网](http://cpp.sh)
 
-### 调试器    C/C++调试器列表
+### 调试器
+
+C/C++调试器列表
 
 *   Comparison of debuggers：来自维基百科的调试器列表。[官网](http://en.wikipedia.org/wiki/Comparison_of_debuggers)
 *   GDB：GNU调试器。[官网](https://www.gnu.org/software/gdb)
 *   Valgrind：内存调试，内存泄露检测，性能分析工具。[官网](http://valgrind.org/)
 
-### 集成开发环境（IDE）    C/C++集成开发环境列表
+### 集成开发环境（IDE）
+
+C/C++集成开发环境列表
 
 *   AppCode：构建与JetBrains’ IntelliJ IDEA 平台上的用于Objective-C，C,C++，Java和Java开发的集成开发环境。[官网](http://www.jetbrains.com/objc/)
 *   CLion：来自JetBrains的跨平台的C/C++的集成开发环境。[官网](http://www.jetbrains.com/clion/)
@@ -500,14 +532,16 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 *   tundra：高性能的代码构建系统，甚至对于非常大型的软件项目，也能提供最好的增量构建次数。[官网](https://github.com/deplinenoise/tundra)
 *   tup：基于文件的构建系统，用于后台监控变化的文件。[官网](http://gittup.org/tup/)
 
-### 静态代码分析    ####提高质量，减少瑕疵的代码分析工具列表
+### 静态代码分析
+
+提高质量，减少瑕疵的代码分析工具列表
 
 *   [Cppcheck](http://hao.jobbole.com/cppcheck/)：静态C/C++代码分析工具。[官网](http://cppcheck.sourceforge.net/)
 *   [include-what-you-use](http://hao.jobbole.com/include-what-you-use/)：使用clang进行代码分析的工具，可以#include在C和C++文件中。[官网](https://code.google.com/p/include-what-you-use/)
 *   OCLint：用于C，C++和Objective-C的静态源代码分析工具，用于提高质量，减少瑕疵。[官网](http://oclint.org/)
 *   [Clang Static Analyzer](http://hao.jobbole.com/clang-static-analyzer/)：查找C，C++和Objective-C程序bug的源代码分析工具。[官网](http://clang-analyzer.llvm.org/index.html)
 *   静态代码分析工具清单（[开源篇](http://hao.jobbole.com/static_code_analysis_tool_list_opensource/)）：来自维基百科的静态代码分析工具列表。[官网](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B)
-
+   
 
 <h3 id="weibo-weixin">微信公众号</h3>
 * CPP开发者：专注分享 C/C++ 开发相关的技术文章和工具资源。
