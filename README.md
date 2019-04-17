@@ -1,10 +1,6 @@
 # C++ 资源大全中文版
 
-[awesome-cpp](https://github.com/fffaraz/awesome-cpp) 由 3f 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
-
-Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多的开发者加入！
-
-* * *
+[awesome-cpp](https://github.com/fffaraz/awesome-cpp) 包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
 
 ### 目录
 * [标准库](#标准库)
