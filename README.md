@@ -1,13 +1,17 @@
 # C++ 资源大全中文版
 
-[awesome-cpp](https://github.com/fffaraz/awesome-cpp) 由 fffaraz 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
+[awesome-cpp](https://github.com/fffaraz/awesome-cpp) 由 3f 发起维护的 C++ 资源列表，内容包括：标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等。
+
+Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多的开发者加入！
+
+* * *
 
 ### 我们要做什么？
-
+- 完善资源列表。
 - 基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://hao.jobbole.com/libphenom/)》
-  - 《[OpenFrameworks：一个用C++编码的跨平台开源工具包](http://hao.jobbole.com/openframeworks/)》
+  - [libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://hao.jobbole.com/libphenom/)
+  - [OpenFrameworks：一个用C++编码的跨平台开源工具包](http://hao.jobbole.com/openframeworks/)
 
 * * *
 
@@ -54,41 +58,6 @@
 * [静态代码分析](#静态代码分析)
 
 * * *
-
-### 如何参与本项目？
-
-<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
-
-不过加入前，有几个小要求：
-
-* 英文还不错，能读懂英文并用自己的话复述；
-* 有 C++ 开发经验；
-
-如有兴趣，请加 QQ：50872495。加 Q 时请注明「C++大全」
- -->
-
-* * *
-
-### 本项目的参与者
-
-- 维护者：[tangyouhua](https://github.com/tangyouhua)
-
-- 贡献者：[JingerJoe](http://www.jobbole.com/members/JingerJoe/)、[云中游](http://www.jobbole.com/members/tonyaaron/)、[冰斌](http://www.jobbole.com/members/libing1209/)、[Juliesand](http://www.jobbole.com/members/Juliesh/)、[ZZMarquis](https://github.com/ZZMarquis)、[颜闽辉](https://github.com/yanminhui/)、You
-
-注：名单不分排名，不定期补充更新
-
-* * *
-
-<!-- ### 奖励计划
-
-虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
-
-* 整理超过 20 个资源后，可在伯乐在线上开通打赏；
-* 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
-
-* * *
- -->
 
 ### 标准库
 
