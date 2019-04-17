@@ -6,15 +6,6 @@ Awesome的初衷是帮助开发者去发现去编码；同时，也希望更多�
 
 * * *
 
-### 我们要做什么？
-- 完善资源列表。
-- 基于 awesome-cpp 资源列表，我们将对各个资源项进行编译整理。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - [libPhenom：Facebook开源的高性能 C 语言并发编程框架](http://hao.jobbole.com/libphenom/)
-  - [OpenFrameworks：一个用C++编码的跨平台开源工具包](http://hao.jobbole.com/openframeworks/)
-
-* * *
-
 ### 目录
 * [标准库](#标准库)
 * [框架](#框架)
